@@ -37,16 +37,20 @@ n = 10
 3. ¿Qué diferencia fundamental existe entre usar *Step Over* y *Step Into* en la línea `siguiente_numero = calcular_siguiente(serie)`?
 
 
-1. El valor de aux la primera vez que se entra en calcular_siguiente es:
+- El valor de aux la primera vez que se entra en calcular_siguiente es:
 aux = 1
 Herramienta: Step Into.
-2. Para salir rápidamente de la función calcular_siguiente y volver al punto de llamada se utiliza:
+
+
+- Para salir rápidamente de la función calcular_siguiente y volver al punto de llamada se utiliza:
 Step Out
-3. Diferencia entre Step Over y Step Into:
 
-Step Over: ejecuta la línea completa sin entrar en funciones.
 
-Step Into: entra dentro de la función llamada para depurarla paso a paso.
+- Diferencia entre Step Over y Step Into:
+
+      Step Over: ejecuta la línea completa sin entrar en funciones.
+
+      Step Into: entra dentro de la función llamada para depurarla paso a paso.
 
 
 ---
